@@ -1,0 +1,75 @@
+{
+  "ambient": {
+    "sounds": [
+      "unkownjar:ambient1",
+      "unkownjar:ambient2"
+    ]
+  },
+  "whisper": {
+    "sounds": [
+      "unkownjar:whisper1",
+      "unkownjar:whisper2"
+    ]
+  },
+  "appear": {
+    "sounds": [
+      "unkownjar:appear"
+    ]
+  },
+  "vanish": {
+    "sounds": [
+      "unkownjar:vanish"
+    ]
+  },
+  "teleport": {
+    "sounds": [
+      "unkownjar:teleport"
+    ]
+  },
+  "chase": {
+    "sounds": [
+      "unkownjar:chase"
+    ]
+  },
+  "growl": {
+    "sounds": [
+      "unkownjar:growl1",
+      "unkownjar:growl2"
+    ]
+  },
+  "step": {
+    "sounds": [
+      "unkownjar:step"
+    ]
+  },
+  "hurt": {
+    "sounds": [
+      "unkownjar:hurt"
+    ]
+  },
+  "death": {
+    "sounds": [
+      "unkownjar:death"
+    ]
+  },
+  "scream": {
+    "sounds": [
+      "unkownjar:scream"
+    ]
+  },
+  "doom": {
+    "sounds": [
+      "unkownjar:doom"
+    ]
+  },
+  "disconnect": {
+    "sounds": [
+      "unkownjar:disconnect"
+    ]
+  },
+  "jumpscare": {
+    "sounds": [
+      "unkownjar:jumpscare"
+    ]
+  }
+}
